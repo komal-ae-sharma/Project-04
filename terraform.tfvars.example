@@ -1,0 +1,3 @@
+aws_region     = "ap-south-1"
+iam_user_name  = "project4-s3-reader"
+s3_bucket_name = "devinfra-s3-bucket"
